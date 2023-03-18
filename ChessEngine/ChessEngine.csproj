@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Reflection.MetadataLoadContext" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ChessPlayerDLL">
+      <HintPath>..\..\ChessPlayer\ChessPlayerDLL\bin\Debug\netcoreapp3.1\ChessPlayerDLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

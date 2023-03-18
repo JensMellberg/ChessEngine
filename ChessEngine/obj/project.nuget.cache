@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNcZFLZ1AXtpWpO2dEandCCCqIP1n1yiJk7fqlnqmPSlqyjLfpdF5dlOB3RTnRzxwzgxrAvYTEaRpb534ZLnYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Camilla\\source\\repos\\ChessEngine\\ChessEngine\\ChessEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camilla\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\system.reflection.metadataloadcontext\\7.0.0\\system.reflection.metadataloadcontext.7.0.0.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

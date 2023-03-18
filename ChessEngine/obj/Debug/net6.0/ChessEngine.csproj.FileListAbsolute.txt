@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\bin\Debug\net6.0\ChessEngine.deps.json
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\bin\Debug\net6.0\ChessEngine.dll
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\bin\Debug\net6.0\ChessEngine.pdb
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ChessEngine.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ChessEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ChessEngine.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ChessEngine.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ChessEngine.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ChessEngine.dll
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\refint\ChessEngine.dll
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ChessEngine.pdb
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ref\ChessEngine.dll
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\bin\Debug\net6.0\ChessPlayerDLL.dll
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\bin\Debug\net6.0\ChessPlayerDLL.pdb
+C:\Users\Camilla\source\repos\ChessEngine\ChessEngine\obj\Debug\net6.0\ChessEngine.csproj.CopyComplete
